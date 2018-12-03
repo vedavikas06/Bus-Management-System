@@ -1,2 +1,2 @@
 # Bus-Management-System
-Database Project
+CS355 -- Database Lab Project
